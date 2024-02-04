@@ -1,6 +1,7 @@
 # IoT Sensors MongoDB (NoSQL Database)
 The repository's file structure:
-1. 
+1. The Database_20123076 folder has all the relevant files to the project an can be better understood reading the report as it provides guidance an insight
+2. MDS Report presents the theoretical concepts behind NoSQL databases as well as the design and implementation of MongoDB in this project
 
 Holistic overview of project:
 -	Focus on designing the sensors database for IoThings' extended computer systems.
